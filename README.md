@@ -1,6 +1,5 @@
 # 🏦 Asistente Virtual - Banco Ágil
 
-![Chatbot Banco](./ruta/a/la/imagen.png)
 
 ## Descripción
 
